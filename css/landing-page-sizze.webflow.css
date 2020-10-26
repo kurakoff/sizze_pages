@@ -847,8 +847,8 @@
 .text-block-16 {
   margin-top: 24px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 17px;
-  font-weight: 600;
+  font-size: 14px;
+  font-weight: 400;
 }
 
 .div-block-17 {
@@ -898,6 +898,33 @@
 
 .image-11 {
   border-radius: 20px;
+}
+
+.text-block-16-copy-copy {
+  margin-top: 12px;
+  margin-bottom: 2em;
+  font-family: 'Open Sans', sans-serif;
+  color: rgba(51, 51, 51, 0.6);
+  font-size: 14px;
+}
+
+.container-13 {
+  margin-bottom: 7em;
+}
+
+.text-block-16-copy-copy {
+  margin-top: 12px;
+  font-family: 'Open Sans', sans-serif;
+  color: rgba(51, 51, 51, 0.6);
+  font-size: 14px;
+}
+
+.text-block-with-margin {
+  margin-top: 24px;
+  margin-bottom: 2em;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
 }
 
 @media screen and (max-width: 991px) {
