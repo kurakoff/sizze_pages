@@ -973,6 +973,11 @@
   border-radius: 20px;
 }
 
+.image-11-copy-copy {
+  margin-top: 0px;
+  border-radius: 20px;
+}
+
 @media screen and (max-width: 991px) {
   .heading {
     padding-right: 0px;
